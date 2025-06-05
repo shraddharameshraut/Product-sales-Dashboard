@@ -9,3 +9,4 @@ Top customer Jordan Turner made 13 purchases totaling $6,800, showcasing strong 
 Revenue peaks mid-month, revealing potential to run successful campaigns during that period.
 Product spotlight on Mountain Bottle Cage met order targets, showing good demand despite lower revenue.
 Conclusion: The sales data reflects a healthy growth trend, strong customer retention, and high-performing product segments—signaling a positive outlook and opportunities for scalable business expansion.
+Dashboard Screenshort:  **https://github.com/shraddharameshraut/Product-sales-Dashboard/blob/main/image.png**
