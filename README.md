@@ -10,4 +10,4 @@ Revenue peaks mid-month, revealing potential to run successful campaigns during 
 Product spotlight on Mountain Bottle Cage met order targets, showing good demand despite lower revenue.
 Conclusion: The sales data reflects a healthy growth trend, strong customer retention, and high-performing product segments—signaling a positive outlook and opportunities for scalable business expansion.
 
-![Dashboard](https://github.com/shraddharameshraut/Product-sales-Dashboard/raw/main/dashboard_screenshot.png)
+![Dashboard](https://github.com/shraddharameshraut/Product-sales-Dashboard/raw/main/image.png)
